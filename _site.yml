@@ -14,9 +14,9 @@ output:
     self_contained: no
 # All fa icons were obtained from https://fontawesome.com/icons?d=gallery
 navbar:
-  title: "My Website"
+  title: "Sofia B's Website"
   left:
-    - text: "Home"
+    - text: "Soup"
       href: index.html
     - text: "About"
       href: about.html
