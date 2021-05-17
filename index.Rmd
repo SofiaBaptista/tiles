@@ -1,5 +1,5 @@
 ---
-title: "Soup's First Day at the New Barnyard"
+title: "Soupppppp's First Day at the New Barnyard"
 author: "Sofia Baptista"
 date: "Last updated on `r Sys.Date()`"
 output:
